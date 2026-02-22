@@ -4,8 +4,6 @@ Transport Network Design Implementation for AutoBuild Lanka – VLAN, Redundancy
 
 ![Network Diagram](Network-Diagram/Network-Topology.png)
 
-# 🚗 AutoBuild Lanka – Transport Network Design
-
 ## 📌 Overview
 
 This project was developed as part of the Pearson BTEC HND in Computing  
