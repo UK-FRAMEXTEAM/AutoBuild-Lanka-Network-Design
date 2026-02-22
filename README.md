@@ -113,7 +113,6 @@ Recommended:
 - Network Diagram → `/Network-Diagram/`
 - Packet Tracer File → `/Packet-Tracer-Files/`
 - IP Allocation Table → `/IP-Addressing/`
-- Assignment Documentation → `/Assignment-Document/`
 
 ---
 
